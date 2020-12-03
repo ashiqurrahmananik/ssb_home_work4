@@ -1,0 +1,98 @@
+.header
+{
+	min-height: 100px;
+	background-color: red;
+}
+.box
+{
+	overflow: hidden;
+}
+.content
+{
+	min-height: 100px;
+	width:70%;
+	background-color: yellow;
+	float: left;
+
+}
+.content2
+{
+	min-height: 100px;
+	width: 30%;
+	background-color: blue;
+	float: right;
+
+}
+.footer
+{
+	min-height: 100px;
+	background-color: green;
+}
+.header3
+{
+	min-height: 100px;
+	background-color: red;
+}
+.box2
+{
+	overflow: hidden;
+}
+.single
+{
+	min-height: 100px;
+	width: 33.33%;
+	float: left;
+}
+.color1
+{
+	background-color: blue;
+}
+.color2
+{
+	background-color: yellow;
+}
+.color3
+{
+	background-color: pink;
+}
+.footer2
+{
+	min-height: 100px;
+	background-color: green;
+}
+.header2
+{
+	min-height: 100px;
+	background-color: red;
+}
+.box3
+{
+	overflow: hidden;
+}
+.single1
+{
+	min-height: 100px;
+	width: 25%;
+	float: left;
+}
+.color4
+{
+	background-color: blue;
+}
+.color5
+{
+	background-color: yellow;
+}
+.color6
+{
+	background-color: pink;
+}
+.color7
+{
+	background-color: blue;
+}
+.footer3
+{
+	min-height: 100px;
+	background-color: green;
+}
